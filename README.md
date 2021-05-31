@@ -1,11 +1,11 @@
-newuuids
+# newuuids
 
-_Pronounced "noo-idds."_ Batch replace UUIDs in text.
+Pronounced _[njuɪdz](http://ipa-reader.xyz/?text=nju%C9%AAdz&voice=Emma)_. Batch replace UUIDs in text.
 
 ## CLI
 
 ### Precompiled releases
-You can download a (x64) pre-compiled release from [the releases page on GitHub](./releases).
+You can download a (x64) pre-compiled release from [the releases page on GitHub](https://github.com/motevets/newuuids/releases).
 
 ## Build it yourself
 1. Install golang (testsed with 1.16)
@@ -28,4 +28,4 @@ Located in [pkg/uuidbump](./pkg/uuidbump).
 
 ## License
 
-MIT.
+MIT. See [LICENSE](./LICENSE)
